@@ -1,0 +1,6 @@
+match_id,minute,player_id,event_type,event_detail
+1,5,10,goal,shot
+1,15,10,goal,header
+1,78,7,goal,shot
+2,30,9,goal,penalty
+3,45,8,goal,free_kick
